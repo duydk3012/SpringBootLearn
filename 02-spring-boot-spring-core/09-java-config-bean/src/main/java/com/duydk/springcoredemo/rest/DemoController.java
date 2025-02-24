@@ -13,7 +13,7 @@ public class DemoController {
     private Coach myCoach;
 
     @Autowired
-    public DemoController (@Qualifier("cricketCoach") Coach myCoach) {
+    public DemoController (@Qualifier("cricketCoach") Coach anotherCoach) {
         this.myCoach = myCoach;
         System.out.println("In constructor: " + this.getClass().getSimpleName());
     }
