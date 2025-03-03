@@ -1,4 +1,4 @@
-package com.duydk.springcoredemo.rest;
+package com.duydk.springcoredemo.common;
 
 public interface Coach {
 

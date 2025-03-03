@@ -1,6 +1,6 @@
-package com.duydk.springcoredemo.common;
+package com.duydk.springcoredemo.rest;
 
-import com.duydk.springcoredemo.rest.Coach;
+import com.duydk.springcoredemo.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

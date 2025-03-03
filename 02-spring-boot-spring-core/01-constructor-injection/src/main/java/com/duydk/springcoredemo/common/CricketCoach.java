@@ -1,4 +1,4 @@
-package com.duydk.springcoredemo.rest;
+package com.duydk.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
